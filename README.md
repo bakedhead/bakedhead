@@ -1,5 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
 </div>  
 
   
@@ -137,22 +139,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
