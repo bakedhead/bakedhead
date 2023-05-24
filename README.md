@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
   
 
 ### <div align="center">I'm Vasu, a full-time full-stack developer 👨‍💻 working since 2023.</div>  
@@ -136,3 +137,22 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
