@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on apps that make our organization a better place  
   
 
-- 🌱 I’m currently learning MERN stack and ML .  
+- 🌱 I’m currently learning Django,Python and ML .  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to django stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
