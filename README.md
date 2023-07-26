@@ -11,7 +11,7 @@
 
   
 
-### <div align="center">I'm Vasu, a full-time full-stack developer 👨‍💻 working since 2023.</div>  
+### <div align="center">I'm Vasu, a full-time AI developer 👨‍💻 working since 2023.</div>  
   
 
 - 🔭 I’m currently working on apps that make our organization a better place  
